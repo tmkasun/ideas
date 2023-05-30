@@ -17,3 +17,9 @@ Deploy a service under s.knnect.com/<short-url> to share any long url with short
   Technology
   - CSV to Mongo
   - Vercel Edge function to create an paginated, sortable API
+
+ ## Online data analyzer tool
+ 
+ - Past any JSON, CSV data
+ - Users can analyse the data using JS
+ - Draw graphs etc
